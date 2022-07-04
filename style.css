@@ -1,0 +1,22 @@
+.container {
+    display: flex;
+    flex-direction: column;
+    /* width: 50%; */
+    /* justify-content: center; */
+    align-items: center;
+    background: rgb(69, 207, 225);
+}
+
+table {
+    border: 1px solid black;
+}
+
+table th {
+    font-size: 25px;
+    width: 200px;
+}
+
+table td {
+    font-size: 20px;
+    width: 50px;
+}
